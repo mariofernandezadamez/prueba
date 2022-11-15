@@ -11,6 +11,7 @@ public class edadypeso {
 		
 		
 		System.out.println("What is your wight?");
+		System.out.println("hola");
 		double weight = in.nextDouble();
 		int age2= age + 1;
 		double weight1= weight * 0.9;
